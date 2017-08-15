@@ -107,6 +107,10 @@ h1{
 }
 
 /*section our service*/
+#service{
+	background-color: $background-fondo;
+	height: 200vh;
+	}
 
 .titulo{
 	margin-top:-13%;
@@ -119,10 +123,36 @@ hr{
 }
 
 .foto{
-	@include foto();
+	border:8px solid $background-boton-celeste;
+	border-radius: 1000px;
+	width:55%;
+	height:55%;
+	padding: 20px 20px;
+	margin-left: 20%;
 }
 
 .texto-2{
 	color: $color-black;
 }
 
+p{
+	color: $color-gray;
+	text-align: justify;
+	width: 80%;
+	margin-left: 10%;
+}
+
+.btn-tres{
+	background-color: #73baae;
+	color: $color-titulos;
+	border: none;
+	padding: 10px 70px;
+	border-radius: 10px;
+	font-size: 17px;
+	font-weight: bold;
+}
+
+.btn-tres:hover{
+	background: $backgroun-boton-rojo;
+	color: white;
+}

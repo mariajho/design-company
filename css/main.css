@@ -5894,6 +5894,10 @@ h1 {
   color: white; }
 
 /*section our service*/
+#service {
+  background-color: #e8f1f1;
+  height: 200vh; }
+
 .titulo {
   margin-top: -13%;
   color: black; }
@@ -5912,5 +5916,24 @@ hr {
 
 .texto-2 {
   color: black; }
+
+p {
+  color: #8e8d8d;
+  text-align: justify;
+  width: 80%;
+  margin-left: 10%; }
+
+.btn-tres {
+  background-color: #73baae;
+  color: white;
+  border: none;
+  padding: 10px 70px;
+  border-radius: 10px;
+  font-size: 17px;
+  font-weight: bold; }
+
+.btn-tres:hover {
+  background: #f91128;
+  color: white; }
 
 /*# sourceMappingURL=main.css.map */
