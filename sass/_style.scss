@@ -109,7 +109,7 @@ h1{
 /*section our service*/
 #service{
 	background-color: $background-fondo;
-	height: 200vh;
+	height: 50vh;
 	}
 
 .titulo{
@@ -155,4 +155,10 @@ p{
 .btn-tres:hover{
 	background: $backgroun-boton-rojo;
 	color: white;
+}
+
+/*section about*/
+
+.cel{
+	margin-top: 10%;
 }

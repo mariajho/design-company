@@ -5896,7 +5896,7 @@ h1 {
 /*section our service*/
 #service {
   background-color: #e8f1f1;
-  height: 200vh; }
+  height: 50vh; }
 
 .titulo {
   margin-top: -13%;
@@ -5935,5 +5935,9 @@ p {
 .btn-tres:hover {
   background: #f91128;
   color: white; }
+
+/*section about*/
+.cel {
+  margin-top: 10%; }
 
 /*# sourceMappingURL=main.css.map */
