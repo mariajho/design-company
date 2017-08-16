@@ -5937,7 +5937,81 @@ p {
   color: white; }
 
 /*section about*/
+#about {
+  height: 80vh;
+  background-color: #f9f9f9; }
+
 .cel {
   margin-top: 10%; }
+
+#titulo-about {
+  margin-top: 10%;
+  font-weight: bold; }
+
+#hr-dos {
+  width: 6%;
+  border: 2px solid black;
+  margin-left: 1%; }
+
+#parr-about {
+  color: #a4b4be;
+  margin-top: 8%;
+  margin-left: 3%;
+  font-size: 15px; }
+
+.btn-cuatro {
+  color: white;
+  background-color: #73baae;
+  border: none;
+  padding: 10px 20px;
+  margin-left: 3%;
+  margin-top: 15%;
+  border-radius: 5px; }
+
+.btn-cuatro:hover {
+  background: #f91128;
+  color: white; }
+
+/*seccion latest*/
+.titulo-latest {
+  margin-top: 4%;
+  color: black; }
+
+#zapatillas {
+  width: 100%;
+  margin-top: 20%; }
+
+.mini-texto {
+  background-color: #e8f1f1;
+  height: 6vh;
+  margin-top: -0.1%;
+  color: #6bbeb6; }
+
+.titulo-business {
+  margin-left: 5%;
+  margin-top: 8%;
+  font-weight: bold; }
+
+.parrafito {
+  margin-left: 5%;
+  color: #8e8d8d; }
+
+.segmentado {
+  width: 90%;
+  border: 1px solid #8e8d8d; }
+
+.mini {
+  margin-left: 5%;
+  color: #8e8d8d; }
+
+.blanco {
+  border: 1px solid #f4efef;
+  margin-top: -2.6%;
+  height: 28vh; }
+
+/*seccion amazing*/
+.fa-desktop {
+  font-size: 40px;
+  color: #6bbeb6; }
 
 /*# sourceMappingURL=main.css.map */

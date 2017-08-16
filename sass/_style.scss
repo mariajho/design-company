@@ -158,7 +158,100 @@ p{
 }
 
 /*section about*/
+#about{
+	height: 80vh;
+	background-color: $background-fondo-dos;
+}
 
 .cel{
 	margin-top: 10%;
 }
+
+#titulo-about{
+	margin-top: 10%;
+	font-weight: bold;
+}
+
+#hr-dos{
+	width: 6%;
+	border: 2px solid $color-black;
+	margin-left: 1%;
+}
+
+#parr-about{
+	color: $color-parrafo;
+	margin-top: 8%;
+	margin-left: 3%;
+	font-size: 15px;
+}
+
+.btn-cuatro{
+	color: $color-titulos;
+	background-color: $background-boton-celeste;
+	border: none;
+	padding: 10px 20px;
+	margin-left: 3%;
+	margin-top: 15%;
+	border-radius: 5px;
+}
+
+.btn-cuatro:hover{
+	background: $backgroun-boton-rojo;
+	color: white;
+}
+
+/*seccion latest*/
+ .titulo-latest{
+ 	margin-top: 4%;
+	color:$color-black;
+ }
+
+ #zapatillas{
+ 	width: 100%;
+ 	margin-top: 20%;
+ }
+
+ .mini-texto{
+ 	background-color: $background-fondo;
+ 	height: 6vh;
+ 	margin-top: -0.1%;
+ 	color: $color-mini-texto;
+ }
+
+ .titulo-business{
+ 	margin-left: 5%;
+ 	margin-top: 8%;
+ 	font-weight: bold;
+ }
+
+ .parrafito{
+ 	margin-left: 5%;
+ 	color: $color-gray;
+ }
+
+ .segmentado{
+ 	width: 90%;
+ 	border: 1px solid $color-gray;
+ }
+
+ .mini{
+ 	margin-left: 5%;
+ 	color: $color-gray;
+ }
+
+ .blanco{
+ 	border: 1px solid #f4efef;
+ 	margin-top:-2.6%;
+ 	height: 28vh;
+ }
+
+ /*seccion amazing*/
+
+ .fa-desktop{
+ 	font-size: 40px;
+ 	color: $color-icono;
+ }
+
+ span{
+ 	
+ }
