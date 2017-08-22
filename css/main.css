@@ -6009,9 +6009,26 @@ p {
   margin-top: -2.6%;
   height: 28vh; }
 
+/*seccion latest*/
+.titulo-amazing {
+  margin-top: 4%;
+  color: black; }
+
 /*seccion amazing*/
+.titulo-amazing {
+  margin-top: 4%;
+  color: black; }
+
 .fa-desktop {
   font-size: 40px;
-  color: #6bbeb6; }
+  color: #6bbeb6;
+  margin-top: 15%; }
+
+span {
+  font-size: 22px;
+  color: black;
+  margin-left: 8%; }
+
+/*seccion talented */
 
 /*# sourceMappingURL=main.css.map */
