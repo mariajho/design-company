@@ -6030,5 +6030,25 @@ span {
   margin-left: 8%; }
 
 /*seccion talented */
+#talented {
+  height: 80vh;
+  background-color: #f9f9f9; }
+
+.titulo-amazing {
+  margin-top: 4%;
+  color: black; }
+
+.retrato {
+  margin-top: 18%; }
+
+.espacio {
+  background-color: #73baae;
+  margin-top: -4%;
+  text-align: center;
+  color: white;
+  height: 10vh; }
+
+.nombre {
+  margin-top: 5%; }
 
 /*# sourceMappingURL=main.css.map */
